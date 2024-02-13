@@ -1,0 +1,37 @@
+_repo: Terence-s-Andrian-a-comedy-in-five-acts-b-Translated-into-English-prose-with-critical-and-exp__72921
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: W. R. Goodluck, Jun.
+    gutenberg_agent_id: '56862'
+    url: http://www.gutenberg.org/2009/agents/56862
+creator:
+  author:
+    agent_name: Kane, William T. (William Terence)
+    alias: Kane, W. T. (William Terence)
+    birthdate: 1880
+    deathdate: 1946
+    gutenberg_agent_id: '938'
+    url: http://www.gutenberg.org/2009/agents/938
+description: ''
+gutenberg_issued: '2024-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72921'
+language: en
+pgterms:marc904: https://archive.org/details/terencesandrianc00tere/page/n11/mode/2up
+pgterms:marc905: 20201117213812terence
+pgterms:marc906: '1820'
+pgterms:marc907: GB
+production_note: Carol Brown, Charlene Taylor and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aLondon :$bLongmans, Hurst, Rees, Orme, and Brown, $c1820.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Terence''s Andrian, a comedy, in five acts : $b Translated into English prose,
+  with critical and explanatory notes.'
+url: http://www.gutenberg.org/ebooks/72921
